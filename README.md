@@ -1,3 +1,1 @@
-# hello-world
-First project on GitHub
-readme-edits branch
+First project # hello-world on GitHub
